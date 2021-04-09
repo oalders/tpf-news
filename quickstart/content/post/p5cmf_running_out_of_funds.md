@@ -1,0 +1,21 @@
+
+---
+title: "P5CMF running out of funds."
+author: Dan Wright
+type: post
+date: 2017-10-31 00:00:00 +0000 UTC
+url: "/post/p5cmf_running_out_of_funds"
+categories:
+ - Sign in
+
+---
+
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">The </span><a href="http://www.perlfoundation.org/perl_5_core_maintenance_fund" style="text-decoration: none;"><span style="font-size: 11pt; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline;">Perl 5 Core Maintenance Fund</span></a><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;"> was established at YAPC::NA 2011 by Jesse Vincent and Karen Pauley as a continuation of the previous Booking.com grant. It is intended to be "used for the maintenance and improvement of the Perl 5 core."</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">Since its inception, the P5CMF has received over half of a million dollars in donations, and has provided funding for eight different individuals to contribute over 9,000 service hours towards improving performance, stability, and features for Perl 5. (Full history </span><a href="https://docs.google.com/spreadsheet/pub?key=0AkU6pBm3WGeedGlqV1d0OXFVaG8yVTVDRFI5c0hLOHc&amp;output=html" style="text-decoration: none;"><span style="font-size: 11pt; font-family: Arial; color: #1155cc; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: underline; vertical-align: baseline;">here</span></a><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">)</span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"></p>
+<p></p>
+
+<p><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">Two of the current recipients of the P5CMF grants are nearing the end of their allocations: Tony Cook will have depleted his allocation by the end of October and <a href="http://news.perlfoundation.org/2017/10/grant-extension-request-mainta-5.html">has already requested an extension</a>. David Mitchell will likely need an extension to his fund in February 2018. Typically these grants are extended in $20,000 increments.</span></p>
+<p><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;">Presently, the P5CMF has $8,426 remaining in unallocated funds. The Perl Foundation board has already moved $20,000 from its general fund to the P5CMF (as well as a matching $20,000 to the sister Perl 6 fund) in July of this year and is currently considering moving an additional $20,000 to the fund to cover Tony Cook's current grant extension request. These extensions were made possible through the generous support of our annual sponsors: craigslist, cPanel, bluehost, Grant Street Group, and Assurant.</span></p>
+<p><span style="font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: nor
