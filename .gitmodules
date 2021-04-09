@@ -1,0 +1,3 @@
+[submodule "quickstart/themes/hugo-clarity"]
+	path = quickstart/themes/hugo-clarity
+	url = git@github.com:chipzoller/hugo-clarity.git
